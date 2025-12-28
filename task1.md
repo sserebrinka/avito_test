@@ -1,3 +1,5 @@
+<img width="1360" height="2748" alt="image" src="https://github.com/user-attachments/assets/5194a5cc-b16f-4b68-b270-8ba8a59c48c3" />
+
 # High Priority
 
 1. Фильтр по городу: выбран Санкт-Петербург, но отображаются вакансии из других городов (Москва, Самара)  
